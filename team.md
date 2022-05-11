@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team's expertise comprises advanced manufacturing, process engineering, and fluid systems for the launch vehicle and automotive sectors.
+Our team's expertise comprises advanced manufacturing, process engineering, and prototype development for the aerospace and automotive industries.
