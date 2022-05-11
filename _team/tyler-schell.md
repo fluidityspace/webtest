@@ -2,7 +2,7 @@
 title: "Tyler Schell"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/tyler-schell"
+image: "images/team/tyler-schell.jpg"
 jobtitle: "CEO"
 linkedinurl: "https://www.linkedin.com/in/tyler-schell-bbb8b8152/"
 promoted: true
